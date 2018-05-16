@@ -1,1 +1,1 @@
-# Customized-ASP.NET-Core-with-Vue.JS-Project-Template
+# Customized-ASP.NET-Core-with-Vue.JS-Project-Startup-Template
